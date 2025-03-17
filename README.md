@@ -1,6 +1,6 @@
 ### **📌 CommunionHub - Event Listing Web App**  
 
-🚀 **Live Demo:** [CommunionHub](https://communion-rn3ykyp6u-johnshirajpoots-projects.vercel.app/)  
+🚀 **Live Demo:** [CommunionHub](https://communion-hub-azure.vercel.app/)  
 
 ---
 
