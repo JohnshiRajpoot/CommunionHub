@@ -72,8 +72,8 @@ If you have suggestions or want to contribute, feel free to fork the repo and su
 
 ---
 
-🔥 **Developed by [Your Name]**  
-💻 **[Your GitHub Profile](https://github.com/JohnshiRajpoot)**  
+🔥 **Developed by JOHNSHI RAJPOOT**  
+💻 **(https://github.com/JohnshiRajpoot)**  
 
 ---
 
