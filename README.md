@@ -44,7 +44,7 @@ CommunionHub is a **React-based** event listing web application that allows user
 ## **🚀 Installation & Setup**  
 1️⃣ Clone the repository:  
 ```sh
-git clone https://github.com/yourusername/communionhub.git
+git clone https://github.com/JohnshiRajpoot/communionhub.git
 ```
 2️⃣ Navigate to the project folder:  
 ```sh
@@ -73,8 +73,7 @@ If you have suggestions or want to contribute, feel free to fork the repo and su
 ---
 
 🔥 **Developed by [Your Name]**  
-💻 **[Your GitHub Profile](https://github.com/yourusername)**  
+💻 **[Your GitHub Profile](https://github.com/JohnshiRajpoot)**  
 
 ---
 
-Agar **aur kuch add karna hai toh batao**! 🚀
