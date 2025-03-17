@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Arial, sans-serif;
+  font-family: Inter,sans-serif;
 }
 
 /* Basic Page Layout */
@@ -24,7 +24,7 @@ body {
 .btn {
   display: inline-block;
   padding: 12px 25px;
-  background: #ff9800;
+  background: rgb(15,164,87);
   color: white;
   font-size: 18px;
   font-weight: bold;
@@ -37,7 +37,7 @@ body {
 }
 
 .btn:hover {
-  background: #e68900;
+  background: rgb(10, 120, 63);
   transform: scale(1.05);
 }
 
@@ -46,7 +46,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: rgb(149, 124, 240);
+  background-color:  rgb(92, 20, 156);
   color: white;
   padding: 15px 20px;
   display: flex;
@@ -99,8 +99,8 @@ body {
 .home {
   text-align: center;
   padding: 80px 20px;
-  background: linear-gradient(to right, rgba(248, 178, 218, 0.8), rgba(206, 188, 248, 0.8));
-  color: white;
+  background-color: rgb(233, 227, 250);
+  color: black;
   min-height: 60vh;
   display: flex;
   flex-direction: column;
@@ -113,13 +113,13 @@ body {
   font-size: 42px;
   font-weight: bold;
   margin-bottom: 15px;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  
 }
 
 .home p {
   font-size: 20px;
   margin-bottom: 20px;
-  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
+
 }
 
 /* Responsive Hero */
@@ -183,10 +183,10 @@ body {
 }
 
 .event-card span {
-  background: #91b615;
+  background: rgb(15,164,87);
   color: white;
   padding: 3px 8px;
-  border-radius: 3px;
+  border-radius:9999px;
   font-size: 12px;
 }
 
@@ -226,7 +226,7 @@ body {
 }
 
 .event-form button {
-  background: #28a745;
+  background: rgb(15,164,87);
   padding: 12px;
   border-radius: 5px;
   color: white;
